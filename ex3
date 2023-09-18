@@ -1,0 +1,5 @@
+numeros = list(range(20, 0, -1))
+numeros.remove(13)
+
+for numero in numeros:
+    print(numero)
